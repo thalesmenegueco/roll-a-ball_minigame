@@ -1,2 +1,5 @@
 # roll-a-ball_minigame
-This is a project built from a tutorial on learning basics of Unity.
+Projeto "Roll a ball", role uma bola, um jogo.
+
+## Objetivo
+Praticar o uso de ferramentas básicas do Unity.
